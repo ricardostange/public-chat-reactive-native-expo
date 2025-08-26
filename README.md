@@ -1,25 +1,31 @@
-# Chat room com react native and expo
+# Chat Room with React Native and Expo
 
-Este é um demo de funcionamento de um aplicativo de chat utilizando o framework React Native e o Expo.
+This is a demo chat application built using [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/).
 
-![Simple demo GIF](assets/readme/simple-demo.gif)
+<img src="./assets/readme/simple-demo.gif" height="550" alt="Demo of chat app" />
 
-## Rodando projeto
+## Getting Started
 
-1. Instalar dependências
+Follow these steps to run the project locally:
+
+1. **Install dependencies**
 
    ```bash
    npm install
    ```
 
-2. Iniciar o app
+2. **Start the development server**
 
    ```bash
    npx expo start
    ```
 
-## Projeto completo
+   You can then open the app on your device using the Expo Go app, or run it on an emulator.
 
-Este app é a parte 1 de um projeto da seguinte arquitetura:
+## Project Overview
 
-![alt text](assets/readme/arquitetura.png)
+This app is part 1 of a larger project with the following architecture:
+
+![Project Architecture](assets/readme/arquitetura.png)
+
+---
